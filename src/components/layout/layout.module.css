@@ -1,0 +1,14 @@
+
+p {
+  color: black;
+}
+
+html {
+  background-color: lightgray;
+}
+
+.title {
+  font-family: sans-serif;
+  color: black;
+  font-size: 2rem !important;
+}

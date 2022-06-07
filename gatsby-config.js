@@ -4,7 +4,15 @@ module.exports = {
     title: `Eric Rannestad Design`,
     siteUrl: `https://www.yourdomain.tld`
   },
-  plugins: ["gatsby-plugin-image", "gatsby-plugin-sitemap", "gatsby-plugin-mdx", "gatsby-transformer-remark", "gatsby-plugin-sharp", "gatsby-transformer-sharp", {
+  plugins: [
+    "gatsby-plugin-image", 
+    "gatsby-plugin-sitemap", 
+    "gatsby-plugin-mdx", 
+    "gatsby-transformer-remark", 
+    "gatsby-plugin-sharp", 
+    "gatsby-transformer-sharp", 
+    "gatsby-plugin-netlify",
+    "gatsby-plugin-netlify-cms", {
     resolve: 'gatsby-source-filesystem',
     options: {
       "name": "images",
