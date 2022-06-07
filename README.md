@@ -59,4 +59,8 @@ Following these resources:
 
     - [Tutorial for those new to Gatsby and React](https://www.gatsbyjs.com/docs/tutorial/part-0/)
 
+Push to Github Pages with:
+
+npm run deploy
+
 

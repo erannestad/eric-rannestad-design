@@ -1,4 +1,5 @@
 module.exports = {
+  
   siteMetadata: {
     title: `Eric Rannestad Design`,
     siteUrl: `https://www.yourdomain.tld`
