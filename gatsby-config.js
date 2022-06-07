@@ -17,5 +17,6 @@ module.exports = {
       "path": "./src/pages/"
     },
     __key: "pages"
-  }]
+  }], 
+  pathPrefix: "/eric-rannestad-design",
 };
