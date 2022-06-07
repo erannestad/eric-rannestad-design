@@ -52,3 +52,11 @@
 Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal)
+
+## Eric's Notes
+
+Following these resources:
+
+    - [Tutorial for those new to Gatsby and React](https://www.gatsbyjs.com/docs/tutorial/part-0/)
+
+
